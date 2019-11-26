@@ -1,4 +1,4 @@
-def main():
+def fonksiyon():
    print("Keep it logically awesome.")
    print("Testing")
 
@@ -9,4 +9,4 @@ def main():
   #print(quotes)
 
 if __name__== "__main__":
-  main()
+  fonksiyon()
